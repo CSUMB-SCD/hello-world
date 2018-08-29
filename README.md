@@ -1,3 +1,4 @@
 # hello-world
-Jay Arellanox \n
+Jay Arellano
+
 hello world repository for graphics programming course
